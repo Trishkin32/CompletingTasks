@@ -20,5 +20,5 @@ Examples (input -> output)
 
 
 def merge_arrays(arr1, arr2):
-    """Mydecision"""
+    """Mysolution"""
     return sorted(set(arr1 + arr2))
