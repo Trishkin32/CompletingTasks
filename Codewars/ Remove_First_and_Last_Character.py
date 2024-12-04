@@ -7,5 +7,4 @@ You don't have to worry about strings with less than two characters.
 
 
 def remove_char(s):
-    s = 'abd'
     return s[1: -1]
